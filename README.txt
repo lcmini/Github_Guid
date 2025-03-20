@@ -14,3 +14,9 @@
   git rm -r --cached 169.\ Majority\ Element  # 删除169.\ Majority\ Element文件夹
   git commit -m '删除了169.\ Majority\ Element'        # 提交,添加操作说明
   git push -u origin guid               # 将本次更改更新到github项目上去
+
+
+uname -a
+
+wget https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows-0.20.39-x64-linux.tar.gz
+
